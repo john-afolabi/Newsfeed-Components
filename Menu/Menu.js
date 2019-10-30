@@ -58,4 +58,4 @@ function menuComponent(arr) {
 
 
 const header = document.querySelector('.header');
-header.append(menuComponent(menuItems))
+header.append(menuComponent(menuItems));
